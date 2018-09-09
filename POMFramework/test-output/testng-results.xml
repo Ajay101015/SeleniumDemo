@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="11184" started-at="2018-09-09T05:29:20Z" finished-at="2018-09-09T05:29:31Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="11184" started-at="2018-09-09T05:29:20Z" finished-at="2018-09-09T05:29:31Z">
+      <class name="com.accenture.test.LoginTest">
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:com.accenture.test.LoginTest@3ffc5af1]" name="beforeTest" is-config="true" duration-ms="5009" started-at="2018-09-09T05:29:20Z" finished-at="2018-09-09T05:29:25Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method status="PASS" signature="Logintest()[pri:0, instance:com.accenture.test.LoginTest@3ffc5af1]" name="Logintest" duration-ms="6142" started-at="2018-09-09T05:29:25Z" finished-at="2018-09-09T05:29:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Logintest -->
+        <test-method status="PASS" signature="afterTest()[pri:0, instance:com.accenture.test.LoginTest@3ffc5af1]" name="afterTest" is-config="true" duration-ms="1" started-at="2018-09-09T05:29:31Z" finished-at="2018-09-09T05:29:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+      </class> <!-- com.accenture.test.LoginTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
